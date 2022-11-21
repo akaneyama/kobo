@@ -49,7 +49,7 @@ prompt () {
 
                                     by
 
-                    Andi Trisna Mukti and Abu Mushonnip \n \n"
+                                akanedaf \n \n"
 
 
 
